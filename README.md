@@ -2,6 +2,7 @@ PRAW 4 reddit bot that replies to mentions with a random integer within the limi
 
 If the bot is mentioned like this: /u/botname 30 it will reply with a number between 1 and 30. 
   By default that text is: "The winner is: N"
+  
 If the bot is mentioned like this: /u/botname blah it will reply with the contents of error_reply.
   By default that text is: "Call the bot like this: /u/botname 20"
 
